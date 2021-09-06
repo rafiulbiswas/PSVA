@@ -1,1 +1,1 @@
-# Public-Sentiment-towards-Vaccination-after-COVID-19-Outbreak-in-the-Arab-World-
+This study aims to identify the shift of sentiment of the Arab speaking people towards vaccination after the COVID-19 outbreak. This study used vaccine-related Arabic Tweets and analyzed the users’ sentiment in the two different time frames. One is before 2020, and another is after 2020.
